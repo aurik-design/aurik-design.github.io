@@ -22,13 +22,13 @@ window.onload = function() {
   }
 
   var messages = [
-    'Hey there 👋',
-    'I\'m Darpan',
-    'I design and code things on the web',
-    'This is just a placeholder website. Coming soon.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
-    '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
+    'hey there 👋',
+    'i\'m darpan',
+    'i like to design & build UI/UX',
+    'This is just a placeholder website. Coming soon.<br> You can contact me at <a href="mailto:d@aurik.design.gr">d@aurik.design.gr</a>',
+    '<a target="_blank" href="https://twitter.com/@username">twitter.com/username</a><br>',
     getCurrentTime(),
-    '👀 J.'
+    '👀 D.'
   ]
 
   var getFontSize = function() {
