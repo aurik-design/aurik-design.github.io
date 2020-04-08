@@ -23,12 +23,11 @@ window.onload = function() {
 
   var messages = [
     'hey there 👋',
-    'i\'m darpan',
-    'i like to design & build UI/UX',
-    'This is just a placeholder website. Coming soon.<br> You can contact me at <a href="mailto:d@aurik.design.gr">d@aurik.design.gr</a>',
-    '<a target="_blank" href="https://twitter.com/@username">twitter.com/username</a><br>',
-    getCurrentTime(),
-    '👀 D.'
+    'i’m darpan, the founder of aurik.design. <br> aurik.design is a purpose-led, value-based interaction design startup.',
+    'this is a temporary website while our full-fledged one gets built. we provide visual design services including Logos, E-Commerce platforms, Websites, Packaging and Social Media Posts.',
+    'you can see our work at <a target="_blank" href="instagram.com/aurik.design">instagram.com/aurik.design</a>',
+    'you can reach out to me at d@aurik.design and 84314 11540 <br>',
+    'i’m excited to co-create something awesome. cheers!'
   ]
 
   var getFontSize = function() {
